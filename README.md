@@ -1,1 +1,1 @@
-# Hash-type-detection
+- 📌 you can detect the hash type with this script
