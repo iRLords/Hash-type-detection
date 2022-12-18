@@ -1,0 +1,1 @@
+# Hash-type-detection
